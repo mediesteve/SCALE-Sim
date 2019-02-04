@@ -1,5 +1,5 @@
 [general]
-run_name = "GoogleTPU_os"
+run_name = "SteveTPU_ws"
 
 [architecture_presets]
 ArrayHeight:    256
