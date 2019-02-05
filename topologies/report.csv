@@ -1,0 +1,6 @@
+DataCenter_Conv1, <cycles>, <avg dram ifmap bw>, <avg dram filter bw>, <avg dram ofmap bw>,
+DataCenter_Conv2, <cycles>, <avg dram ifmap bw>, <avg dram filter bw>, <avg dram ofmap bw>,
+Mobile_Conv1, <cycles>, <avg dram ifmap bw>, <avg dram filter bw>, <avg dram ofmap bw>,
+Mobile_Conv2, <cycles>, <avg dram ifmap bw>, <avg dram filter bw>, <avg dram ofmap bw>,
+<DataCenter_cost>,,,,,
+<Mobile_cost>,,,,,
